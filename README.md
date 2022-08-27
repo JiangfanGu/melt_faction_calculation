@@ -1,2 +1,3 @@
 # melt_faction_calculation
-This is a little calculator about fluid/melt-solid calculator when using EM data to discuss partial melt or fuild content. All method are public and free. I just code it down, and make it plot. All the copyrights are from the scientists who find these relationships.
+This is a little calculator about fluid/melt-solid calculator when using EM data to discuss partial melt or fuild content. All method are public and free. I just code it, and make it plot. All the copyrights are from the scientists who find these relationships.
+I upload them for my colleagues at CUGB in case they have to redo these again after this winter when I will leave the CUGB MTteam. And anyone who interested in these can just feel free to download and use them. ALL the equation can be found in the cited paper I put in the code. please remember to cite them when you pulish your result after using these codes.

@@ -9,7 +9,7 @@ phip=phi*100;
 C=1.3;
 m=1.47;
 sigmaachie=meltsigma*C*power(phi,m);
-semilogy(phi,sigmaachie,'y');
+semilogy(phip,sigmaachie,'y');
 hold on
 xlabel('melt fraction(%)');
 ylabel('conductivity(S/m)');

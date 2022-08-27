@@ -3,7 +3,7 @@
 %%coded by GuJiangfan@CUGB
 %%meltfraction-conductivity 
 meltsigma=1;%replace it with any result you find/calculate/measure
-sigmarock=1000;%replace it with any result you find/calculate/measure
+sigmarock=0.001%replace it with any result you find/calculate/measure
 phi=0:0.01:1;
 phip=phi*100;
 sigmahsp=meltsigma+(1-phi).*(1./(1/(sigmarock-meltsigma)+phi/meltsigma/3));
